@@ -15,3 +15,5 @@ Track your patient's blood level and read the hemolyzer's graphs.
 ![image](https://user-images.githubusercontent.com/17555707/107134387-a0c15880-68bf-11eb-89de-b04ef2e6e7c9.jpg)
 
 ### Save Lives and balance out your work life!
+
+![image](https://user-images.githubusercontent.com/17555707/107134504-aa978b80-68c0-11eb-9317-f181a0b37355.jpg)
