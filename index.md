@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Try our App Today 
 
-You can use the [editor on GitHub](https://github.com/19hollowayc/Demo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<button>Sign Up</button>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Once, you have installed the app in "Settings" connect your device to designated hemolyzer.
 
-### Markdown
+### Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Track your patient's blood level and read the hemolyzer's graphs.
 
 ```markdown
 Syntax highlighted code block
