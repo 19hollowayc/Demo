@@ -4,6 +4,10 @@
 
 Once, you have installed the app in "Settings" connect your device to designated hemolyzer.
 
+### Patient Profiles
+
+![image](https://user-images.githubusercontent.com/17555707/107135528-81c7c400-68c9-11eb-966b-52ec877b362d.png)
+
 ### Features
 
 Track your patient's blood level and read the hemolyzer's graphs.
