@@ -13,3 +13,5 @@ Track your patient's blood level and read the hemolyzer's graphs.
 ### Get Flagged when there is an Error: Along with reccomendations to solve the errors!
 
 ![image](https://user-images.githubusercontent.com/17555707/107134387-a0c15880-68bf-11eb-89de-b04ef2e6e7c9.jpg)
+
+### Save Lives and balance out your work life!
