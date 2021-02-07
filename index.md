@@ -8,7 +8,7 @@ Once, you have installed the app in "Settings" connect your device to designated
 
 Track your patient's blood level and read the hemolyzer's graphs.
 
-![image](https://user-images.githubusercontent.com/17555707/107134194-d6654200-68bd-11eb-8328-766c6d6bb730.png)
+![image](https://user-images.githubusercontent.com/17555707/107134561-37424980-68c1-11eb-849e-11ea50302843.jpg)
 
 ### Get Flagged when there is an Error: Along with reccomendations to solve the errors!
 
